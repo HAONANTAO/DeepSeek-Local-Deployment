@@ -19,3 +19,6 @@ then, accordint to the macbook configrations to choose the appropriate the model
 when i choose is :7b --> ollama run deepseek-r1:7b
 then running this command on  terminal:
 you could ask the question on the terminal.
+
+
+ref:https://www.youtube.com/watch?v=OajpMEURDyw
